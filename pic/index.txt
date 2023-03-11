@@ -1,0 +1,1 @@
+{'object': {'book': 0, 'portable_battery': 315, 'mouse': 0}, 'sit': {'error': 0, 'right': 0}}
